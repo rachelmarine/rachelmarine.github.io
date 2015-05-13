@@ -1,0 +1,16 @@
+/* Hello ya'll */
+p {
+    /* margin: 50; */
+}
+
+.my_cool_class {
+    /* Class css begins with a "." */
+    /* something awesome */
+    margin: 50;
+}
+
+#about_me {
+    margin-top: 50;
+    border: 1px solid #404040;
+    /* width: 50px !important; */
+}
