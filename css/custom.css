@@ -10,7 +10,13 @@ p {
 }
 
 #about_me {
-    margin-top: 50;
+    margin-top: 30;
+    border: 1px solid #404040;
+    width: 600px !important;
+}
+
+#updates {
+    margin-top: 0 !important;
     border: 1px solid #404040;
     /* width: 50px !important; */
 }
