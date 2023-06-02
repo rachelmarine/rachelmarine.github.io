@@ -12,12 +12,14 @@ p {
 #about_me {
     margin-top: 30 !important;
     /* border: 1px solid #404040;*/
-    width: 700px !important;
+    width: 100%;
+    max-width: 800px;
 }
 
 #updates {
     margin-top: 20 !important;
     /* margin-left: 20 !important;*/
     /* border: 1px solid #404040;*/
-     width: 800px !important; 
+    width: 100%;
+    max-width: 800px;
 }
